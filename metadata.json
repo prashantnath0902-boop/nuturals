@@ -1,0 +1,6 @@
+{
+  "name": "NUTURALS",
+  "description": "Premium Nuts, Dried Fruits & Natural Foods — Global Sourcing & Supply",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Medallion Brass Border -->
+    <path
+        android:strokeColor="#FFC69E52"
+        android:strokeWidth="2.5"
+        android:pathData="M 54,18 A 36,36 0 1,0 54,90 A 36,36 0 1,0 54,18 Z" />
+
+    <path
+        android:strokeColor="#FF8B652A"
+        android:strokeWidth="1.2"
+        android:pathData="M 54,20.5 A 33.5,33.5 0 1,0 54,87.5 A 33.5,33.5 0 1,0 54,20.5 Z" />
+
+    <!-- Medallion Inner Bronze Field -->
+    <path
+        android:fillColor="#FF21150F"
+        android:pathData="M 54,22 A 32,32 0 1,0 54,86 A 32,32 0 1,0 54,22 Z" />
+
+    <!-- Inner Gold Ring -->
+    <path
+        android:strokeColor="#88E5C158"
+        android:strokeWidth="0.8"
+        android:pathData="M 54,24.5 A 29.5,29.5 0 1,0 54,83.5 A 29.5,29.5 0 1,0 54,24.5 Z" />
+
+    <!-- Upper Botanical Laurel & Nuts Relief (Almond, Hazelnut & Foliage) -->
+    <!-- Left Leaf Scroll -->
+    <path
+        android:fillColor="#FFD4AF37"
+        android:pathData="M 44,36 C 41,33 37,34 36,37 C 39,39 43,38 44,36 Z" />
+    <path
+        android:fillColor="#FFB38833"
+        android:pathData="M 48,33 C 45,30 40,31 39,34 C 43,35 47,34 48,33 Z" />
+
+    <!-- Right Leaf Scroll -->
+    <path
+        android:fillColor="#FFD4AF37"
+        android:pathData="M 64,36 C 67,33 71,34 72,37 C 69,39 65,38 64,36 Z" />
+    <path
+        android:fillColor="#FFB38833"
+        android:pathData="M 60,33 C 63,30 68,31 69,34 C 65,35 61,34 60,33 Z" />
+
+    <!-- Central Sculpted Almond Nut -->
+    <path
+        android:fillColor="#FFF5D77F"
+        android:pathData="M 54,30 C 51,33 49,37 50,41 C 51,44 54,46 54,46 C 54,46 57,44 58,41 C 59,37 57,33 54,30 Z" />
+    <!-- Almond Inner Shell Texture -->
+    <path
+        android:fillColor="#FF9B7229"
+        android:pathData="M 53.5,33 C 52,36 51,39 52,42 C 53,44 54,45 54,45 C 54,45 53,42 53.5,37 Z" />
+
+    <!-- Left Hazelnut / Seed -->
+    <path
+        android:fillColor="#FFC5A059"
+        android:pathData="M 47,38 C 44,40 44,44 47,46 C 49,46 50,43 49,40 Z" />
+
+    <!-- Right Acorn / Nut -->
+    <path
+        android:fillColor="#FFC5A059"
+        android:pathData="M 61,38 C 64,40 64,44 61,46 C 59,46 58,43 59,40 Z" />
+
+    <!-- Central Bold Embossed NUTURALS Plaque / Typography Banner -->
+    <!-- Base Ribbon Plaque -->
+    <path
+        android:fillColor="#FF180E09"
+        android:strokeColor="#FFD4AF37"
+        android:strokeWidth="1.0"
+        android:pathData="M 31,48 L 77,48 L 75,62 L 33,62 Z" />
+
+    <!-- NUTURALS Stylized Golden Lettering Relief (N - U - T - U - R - A - L - S) -->
+    <!-- N -->
+    <path
+        android:fillColor="#FFFDF7E7"
+        android:pathData="M 35,51 L 36.6,51 L 36.6,56.5 L 38.8,51 L 40.4,51 L 40.4,59 L 38.8,59 L 38.8,53.5 L 36.6,59 L 35,59 Z" />
+    <!-- U -->
+    <path
+        android:fillColor="#FFF5D77F"
+        android:pathData="M 41.5,51 L 43.1,51 L 43.1,56.2 C 43.1,57.8 44.2,58.8 45.3,58.8 C 46.4,58.8 47.5,57.8 47.5,56.2 L 47.5,51 L 49.1,51 L 49.1,56.2 C 49.1,58.8 47.2,60 45.3,60 C 43.4,60 41.5,58.8 41.5,56.2 Z" />
+    <!-- T -->
+    <path
+        android:fillColor="#FFFDF7E7"
+        android:pathData="M 50.2,51 L 55.8,51 L 55.8,52.6 L 53.8,52.6 L 53.8,59 L 52.2,59 L 52.2,52.6 L 50.2,52.6 Z" />
+    <!-- U -->
+    <path
+        android:fillColor="#FFF5D77F"
+        android:pathData="M 56.8,51 L 58.4,51 L 58.4,56.2 C 58.4,57.8 59.5,58.8 60.6,58.8 C 61.7,58.8 62.8,57.8 62.8,56.2 L 62.8,51 L 64.4,51 L 64.4,56.2 C 64.4,58.8 62.5,60 60.6,60 C 58.7,60 56.8,58.8 56.8,56.2 Z" />
+    <!-- R -->
+    <path
+        android:fillColor="#FFFDF7E7"
+        android:pathData="M 65.5,51 L 68.8,51 C 70.2,51 71,51.8 71,53.2 C 71,54.3 70.3,55.1 69.3,55.3 L 71,59 L 69.3,59 L 67.8,55.5 L 67.1,55.5 L 67.1,59 L 65.5,59 Z M 67.1,54 L 68.5,54 C 69.1,54 69.4,53.7 69.4,53.2 C 69.4,52.7 69.1,52.4 68.5,52.4 L 67.1,52.4 Z" />
+    <!-- A -->
+    <path
+        android:fillColor="#FFF5D77F"
+        android:pathData="M 72.2,59 L 74.8,51 L 76.4,51 L 79,59 L 77.3,59 L 76.7,57 L 74.5,57 L 73.9,59 Z M 75,55.5 L 76.2,55.5 L 75.6,53 Z" />
+
+    <!-- Lower Artisanal Ribbon Scroll -->
+    <path
+        android:fillColor="#FF2E1E14"
+        android:strokeColor="#FFC69E52"
+        android:strokeWidth="0.8"
+        android:pathData="M 34,65 Q 54,68 74,65 L 72,71 Q 54,74 36,71 Z" />
+
+    <!-- Three Luxury Starbursts at Bottom -->
+    <!-- Center Star -->
+    <path
+        android:fillColor="#FFF5D77F"
+        android:pathData="M 54,75 L 55.2,77.5 L 57.5,78 L 55.2,78.5 L 54,81 L 52.8,78.5 L 50.5,78 L 52.8,77.5 Z" />
+    <!-- Left Star -->
+    <path
+        android:fillColor="#FFC69E52"
+        android:pathData="M 44,75.5 L 45,77 L 46.8,77.5 L 45,78 L 44,79.5 L 43,78 L 41.2,77.5 L 43,77 Z" />
+    <!-- Right Star -->
+    <path
+        android:fillColor="#FFC69E52"
+        android:pathData="M 64,75.5 L 65,77 L 66.8,77.5 L 65,78 L 64,79.5 L 63,78 L 61.2,77.5 L 63,77 Z" />
+
+    <!-- Arch Top Text Dots / Starbursts -->
+    <path
+        android:fillColor="#FFC69E52"
+        android:pathData="M 54,23 L 55,24.5 L 56.5,25 L 55,25.5 L 54,27 L 53,25.5 L 51.5,25 L 53,24.5 Z" />
+</vector>
